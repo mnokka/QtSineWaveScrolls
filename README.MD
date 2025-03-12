@@ -4,4 +4,4 @@ Scrolls sine wave in a chart (right to left)
 
 
 
-!The Pic](./SineWave.png)
+![Picture](SineWave.png)
